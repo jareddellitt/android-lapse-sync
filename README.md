@@ -1,4 +1,4 @@
-android-lapse-sync
+Android Time-Lapse Sync
 ==================
 
 A small python app to sync time lapse photos on my Android phone with Dropbox.
